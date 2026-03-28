@@ -1,4 +1,4 @@
-# 关于 DTPOI
+# ABOUT DTPOI
 <p align="center">
   <img src="https://dtpoi.cn/icon.png" width="150" height="150" style="border-radius: 50%; border: 2px solid #ddd; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);" alt="蛋挞poi 居中圆形头像">
 </p>
@@ -18,7 +18,7 @@
 
 ---
 
-##  联系方式
+##  Connect (联系方式)
 
 -  Email: dtpoi@qq.com  
 -  Discord: @dtpoi  
