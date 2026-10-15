@@ -23,7 +23,8 @@
 -  Email: dtpoi@qq.com  
 -  Discord: @dtpoi  
 -  GitHub: https://github.com/dtpoi  
--  Bilibili: https://space.bilibili.com/7337605  
+-  Bilibili: https://space.bilibili.com/7337605
+-  爱发电: https://afdian.com/a/dtpoi
 
 ---
 https://dtpoi.cn  
